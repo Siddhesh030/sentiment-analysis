@@ -9,7 +9,7 @@ app = Flask(__name__)
 # LOAD MODEL AND VECTORIZER
 # ============================================================
 
-MODEL_PATH = "model (1).pkl"
+MODEL_PATH = "model (3).pkl"
 VECTORIZER_PATH = "vectorizer.pkl"
 
 try:
