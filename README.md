@@ -1,3 +1,3 @@
 # sentiment-analysis
 
-porject link  =  https://sentiment-analysis-livid-nine.vercel.app/
+porject link  =  https://sentiment-analysis-rosy-ten.vercel.app/
